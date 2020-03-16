@@ -1,0 +1,33 @@
+html{
+	font-size: 10px;
+}
+.layout{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	width: 40rem;
+	margin: 0 auto;
+	padding-top: 5rem;
+}
+table {
+	border-collapse: collapse;
+	margin-bottom: 2.5rem;
+	
+}
+tr, td {
+	width: 4rem;
+	height: 4rem;
+	border: 0.1rem solid #000000;
+}
+button{
+	width: 19rem;
+	height: 5rem;
+	
+}
+
+body div button.btn {
+	font-size: 2rem;
+}
+span{
+	margin-right: 1rem;
+}
